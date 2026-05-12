@@ -1,3 +1,4 @@
+<img width="1881" height="987" alt="ahmad-project4" src="https://github.com/user-attachments/assets/fbb2970d-b28a-4b34-9f85-bf0495b170a3" />
 # 🧮 Simple Calculator
 
 A clean, functional calculator built to handle [mention purpose, e.g., "basic arithmetic" or "scientific calculations"]. This project focuses on [mention a goal, e.g., "user-friendly UI" or "clean code architecture"].
