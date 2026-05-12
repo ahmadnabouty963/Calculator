@@ -21,8 +21,6 @@ A clean, functional calculator built to handle [mention purpose, e.g., "basic ar
 
 Follow these steps to get a local copy up and running.
 
-### Prerequisites
-* [e.g., Python 3.x, Node.js, or just a web browser]
 
 ### Installation
 1. Clone the repo:
